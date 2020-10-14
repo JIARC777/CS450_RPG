@@ -12,6 +12,8 @@ ScriptsOnlyBuild:
     - NetworkManager
     - Pickup
     - PlayerController
+    PhotonUnityNetworking.Editor.dll:
+    - Photon.Pun.PunSceneSettings
     PhotonUnityNetworking.dll:
     - Photon.Pun.PhotonTransformView
     - Photon.Pun.PhotonView
